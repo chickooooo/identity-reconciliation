@@ -1,0 +1,8 @@
+# environments
+env
+
+# cache
+__pycache__
+
+# database
+main.db
